@@ -1,0 +1,8 @@
+{
+  "URL": "https://www.automationexercise.com/",
+  "BROWSER": "chromeheadless",
+  "USERNAME": "",
+  "PASSWORD": "",
+  "SCREENSHOT_ON_PASS": "No",
+  "SCREENSHOT_ON_FAIL": "No"
+}
